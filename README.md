@@ -122,6 +122,10 @@ Possible future improvements include:
 * Automatic data logging
 * Remote monitoring
 
+  ## Project Preview
+
+![Wokwi Simulation](wokwi-simulation.png)
+
 ## Author
 
 **Abdul Sammir Bashirudeen**
