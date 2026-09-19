@@ -81,15 +81,21 @@ The project uses:
 
 ## Simulation
 
+## Simulation
+
 The project was developed and tested using **Wokwi** with an ESP32 DevKit.
+
+▶️ **[Run the simulation on Wokwi](https://wokwi.com/projects/475596234272305153)**
 
 The simulation includes:
 
-* DHT22
+* ESP32 DevKit
+* DHT22 temperature and humidity sensor
 * MQ-2 gas sensor
-* SSD1306 OLED
+* SSD1306 OLED display
 * Warning LED
 * Buzzer
+
 
 ## How It Works
 
